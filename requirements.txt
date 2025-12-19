@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-scikit-learn
-joblib
-requests
-python-dateutil
-typing-extensions
